@@ -1,0 +1,9 @@
+<?php
+
+$scores = [1, 2, 3];
+
+echo '<pre>';
+print_r($scores);
+echo '</pre>';
+
+dgdsg
