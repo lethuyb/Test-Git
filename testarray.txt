@@ -7,3 +7,5 @@ print_r($scores);
 echo '</pre>';
 
 dgdsg
+<a>href= https://defauld.com.vn</a>;
+test.jsf
