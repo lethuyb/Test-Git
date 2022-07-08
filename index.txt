@@ -21,6 +21,13 @@ cars[0] = "Toyota";
 
 // You can add an element:
 cars.push("Audi");
+<p id = "test"></test>
+<script>
+	function myFunction(p1, p2){
+		return p1 * p2;
+	}
+document.ElementById("test").innerHTML.myFunction(3, 4);
+</script>
 
 </body>
 </html>
