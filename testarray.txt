@@ -5,7 +5,7 @@ $scores = [1, 2, 3];
 echo '<pre>';
 print_r($scores);
 echo '</pre>';
-
+echo 123 test thuong 
 dgdsg
 <a>href= https://defauld.com.vn</a>;
 test.jsf
