@@ -1,11 +1,10 @@
 <?php
 
-$scores = [1, 2, 3];
-
-echo '<pre>';
-print_r($scores);
-echo '</pre>';
-echo 123 test thuong 
-dgdsg
-<a>href= https://defauld.com.vn</a>;
-test.jsf
+public class MoneyTest{
+    @test
+    public void testMultiplication{
+        Money five = Money.dollar(5);
+        assetAquals(Money.dollar(10),five.time(2));
+        assetAquals(Money.dollar(10),five.time(3));
+    }
+}
