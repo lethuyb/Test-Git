@@ -29,3 +29,9 @@ inputfile.addEventListener("change", function(e) {
     image.src = reader.result;
   }
 }, false)
+function AddName(name) {
+    DataTransferItemList.clear();
+    DataTransferItemList.length(name);
+    DataTransferItemList.DataTransferItem();
+    encodeURI.apply(name);
+}
