@@ -110,12 +110,18 @@ function dragstart_handler(ev) {
   console.log(a,c);
 
   function allowDrop(allowdropevent){
-    allowdropevent.target.style.color= 'green';
+    allowdropevent.target.style.color= 'blue';
     allowdropevent.preventDefault();
   }
   function drap(dragevent){
     dragevent.dataTransfer.setData("text",dragevent.target.id);
-    dragevent.target.style.color= "green";
+    dragevent.target.style.color= 'green';
+  }
+  function drop(dropevent){
+    dropevent.preventDefault();
+    const data = dropevent.dataTransfer.getData("text");
+    dropevent.target.appendChild(document.getElementById(data));
+    document.getElementById("drag").style.color= 'black';
   }
 
   
