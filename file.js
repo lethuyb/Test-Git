@@ -65,7 +65,7 @@ function dragstart_handler(ev) {
           console.log(`… Drop: HTML = ${s}`);
         });
       } else if ((item.kind === 'string') &&
-                 (item.type.match('^text/uri-list'))) {
+                 (item.type.match('text/uri-list'))) {
         // Drag data item is URI
         item.getAsString((s) => {
           console.log(`… Drop: URI = ${s}`);
@@ -79,6 +79,9 @@ function dragstart_handler(ev) {
     ev.preventDefault();
     // Set the dropEffect to move
     ev.dataTransfer.dropEffect = 'move'
+    const b = [1,2];
+    b.push(5);
+    console.log(a,b);
   }
   
   function dragend_handler(ev) {
@@ -101,4 +104,18 @@ function dragstart_handler(ev) {
   const target = document.querySelector('#target');
   target.addEventListener('drop', drop_handler);
   target.addEventListener('dragover', dragover_handler);
+  const a = [1,2,3,4];
+  let c = a;
+  c.push(5);
+  console.log(a,c);
+
+  function allowDrop(allowdropevent){
+    allowdropevent.target.style.color= 'green';
+    allowdropevent.preventDefault();
+  }
+  function drap(dragevent){
+    dragevent.dataTransfer.setData("text",dragevent.target.id);
+    dragevent.target.style.color= "green";
+  }
+
   
