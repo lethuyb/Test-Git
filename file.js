@@ -208,6 +208,14 @@ function dragstart_handler(ev) {
   - Thu 2: di chup anh cuoi, di mua nhan cuoi , 
            toi di uong tra sua voi may dua ban(neu co thoi gian )
   - thu 3: di mua vay, giay, an uong linh tinh (hom CN k di dc)
-  
+  Lich trinh an uong o HN : 
+  An nem nuong nha trang, nem lui, oc, cut lon xao me 
+  Lich trinh NA:
+  - Thu 4: chao hoi mnxq
+  - thu 5: chao hoi mn noi xao(Ve di dao an uong linh tinh)
+  - Thu 6: o nha nghi ngoi, di choi tinh tinh, toi di cafe voi dam ban
+  - thu 7: o nha nghi ngoi
+  ->am thuc NA: an chao luon, Banh muot + long 
+
 
   
