@@ -200,6 +200,14 @@ function dragstart_handler(ev) {
   const reset = document.querySelector("#reset");
   reset.addEventListener("click", () => document.location.reload());
   
+  thu 7 ra ve: 
+  HN: 7,cn,2,3 toi thu 3 ve 
+  lich trinh HN:
+  - Thu 7 nghi ngoi 
+  - CN: chao hoi ho hang , di an vat linh tinh. di mua vay 
+  - Thu 2: di chup anh cuoi, di mua nhan cuoi , 
+           toi di uong tra sua voi may dua ban(neu co thoi gian )
+  - thu 3: di mua vay, giay, an uong linh tinh (hom CN k di dc)
   
 
   
