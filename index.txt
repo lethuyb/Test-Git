@@ -27,7 +27,10 @@ Cap 3: Huong, Hoa, Huyen, Kieu, Yen Mau, My Hanh, Nga Sen, Huong Loi,
 DH: Quynh, Luyen, Phuong, Hang, Thuy, Oanh, MDV(7)
 
 Cty cy: Tuyen, Ha, Dat, Phong (4)
-Tong 39: 3 mam 
+Tong 39: 3 mam - 8tr (39x2=78; 3: 1->3tr; 5:500->2tr5
+)->5tr5; 30: 2tr->6tr
+tong: 10tr 
+4M +10M+5M +1M = 20Man 
 mua vay cuoi: 2 vay 1 ao khoac 1 giay: 4tr
 xe: 14tr
 rap: 12tr
@@ -36,7 +39,20 @@ thiep moi: 1tr
 mua trang tri: 5tr
 banh keo: 2tr 
 mua ao quan cho bme: 3tr 
-Tong 46. tien an uong lt: 
+Tong 46. tien an uong lt->50tr
+tien mung cua ban: 10tr-> mua qua qua nhat 
+12tr -> di lam toc: 2M + mua quan ao: 5tr-5tr
+O nhat ve: mag 1 bo cua Gap, uniqlo, 1bo do bo, 1 bo mac tren nguoi , mua do bo 
+de lai nha a bo do cua Gap, do bo, nao mang ao khoac k mang ao khac uni vema
+
+mang moi ao hong ve , 
+1 bo do cua Gap: 8sen ; mua quan cho a nua; hon 1man 
+mua quan zara: 6sen: -> 1man 6
+mua tui: 1man -> 1man 6
+cong them ao cho a-> 2man , ao uniqlo: 1 man -> 3man 
+mua do o nha mang qua mac di lam : 
+
+
 
 
 // You can add an element:
