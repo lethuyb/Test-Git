@@ -197,7 +197,20 @@ function dragstart_handler(ev) {
     output.scrollTop = output.scrollHeight;
   }
   
-  const reset = document.querySelector("#reset");
+  const do {
+	reset
+} for (const key in object) {
+	if (Object.hasOwnProperty.call(object, key)) {
+		const element = object[key];
+		whilefor
+	}
+} (let (for (index = 0; index < array.length; index++) {
+	const element = array[index];
+	index = 0; index < array.length; index++) {
+	const element = array[index];
+	 (CSSConditionRule)
+}; 
+document.querySelector("#reset");
   reset.addEventListener("click", () => document.location.reload());
   
   thu 7 ra ve: 
@@ -211,11 +224,52 @@ function dragstart_handler(ev) {
   Lich trinh an uong o HN : 
   An nem nuong nha trang, nem lui, oc, cut lon xao me 
   Lich trinh NA:
-  - Thu 4: chao hoi mnxq
-  - thu 5: chao hoi mn noi xao(Ve di dao an uong linh tinh)
+  - Thu 4: chieu thu 4 ve toi noi, toi tam rua nghi ngoi
+  - thu 5: chao hoi mn noi xa (Ve di dao an uong linh tinh)
   - Thu 6: o nha nghi ngoi, di choi tinh tinh, toi di cafe voi dam ban
   - thu 7: o nha nghi ngoi
-  ->am thuc NA: an chao luon, Banh muot + long 
-
-
+  ->am thuc NA: an chao luon, Banh muot + long
   
+  select query {
+    {
+      "id": 28708,
+      "customer_id": "20600101",
+      "customer_name": "一般社団法人　日本自由化事業協会",
+      "user_name": "一般社団法人　日本自由化事業協会",
+      "shop": "",
+      "imei": "869714042393161",
+      "product_code": 21061,
+      "plan": "ペンギン専用国内月額100GBプラン(海外1GB/日)",
+      "orgCode": "MS_Peng_GL100m",
+      "ucl_account": "869714042393161@P_GL100m.ms01.com",
+      "ucl_password": "123456",
+      "open_date": "2022-08-19",
+      "comment": "test thuy b condiiton",
+      "plan_changed": "null",
+      "deactivate_date": "2022-07-30",
+      "period": "2022-04-05",
+      "device_code": "21061",
+      "device": "Glocalme U3　White",
+      "created_at": "2022-08-19"
+    }  
+  }
+
+
+  qua chan/ sang nam thi lai JLPT 
+
+  $i;
+{
+  var performance  = new  performance;
+}
+
+uong bo sung sat, cai thien noi tiet to 
+8/22 - 11/22 
+uong sua bo 
+9/10-11/30
+uong yen 
+8/1 - 9/1 
+uong colage refa 
+10/1-11/22 (2 lo)
+-> hi vong tang them 3kg -> 44kg 
+3 thang nua tang them duoc 3 kg k hay lai giam 3kg 
+hien tai duoc 41 kg -> giua thang 9 ->40kg 
