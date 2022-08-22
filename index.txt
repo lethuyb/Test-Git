@@ -51,7 +51,24 @@ mua quan zara: 6sen: -> 1man 6
 mua tui: 1man -> 1man 6
 cong them ao cho a-> 2man , ao uniqlo: 1 man -> 3man 
 mua do o nha mang qua mac di lam : 
+mua 1 bo do bo: 
+do mang ve:
+2 bo do bo: Gap, con ngua
+1 bo vay mac di choi: 
+1 bo do mac tren nguoi 
+1 tui xach; 1 doi day ,
+2 tui du nhiet, 1 lo duong toc, 1 lo u toc, 
+2 lo muoi tay da chet, 
+1 lo tay long 
+giay+ ao khoac+ tui xach mang tren nguoi
 
+ao quan a:
+3 quan dai, 3 quan mac o nha, 3 ao dai tay, 1 ao khoac , 1 doi day 
+ao quan a + minh: 1 vali to, 1 vali be 
+con vali to nua: dung qua mang ve: 2 cai may do huyet ap, 6 loj omega3, 
+2 hop phan, banh keo, thach dua 
+
+ve cho moi dua 200k 
 
 
 
@@ -64,6 +81,7 @@ cars.push("Audi");
 	}
 	document.getElementById("test").innerHTML.myFunction(3, 4);
 </script>
-
+<script>alert("test");</script>
+document/getElementById("test").innerHTML.myFunction(10,22);
 </body>
 </html>

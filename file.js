@@ -307,6 +307,48 @@ tru 5man : 41man
 tru tien mua ve may bay: 30man 
 tien mua do gui ve nha; 5 man ; 25 man 
 tien thue chup anh cuoi: 20man 
+con 25 man: 
+- chuyen khoan 8man 
+- tien an: 3man ; tien dien + nuoc: 2 man 
+= 13man 
+-> con 25-13= 12 man 
+thang 9: 5man + 2man + 2 man + 3man =12man 
+-> 48man .$i
+mua do ve + do cho minh: 8man 
+- con 40man 
+ve may bay: 10man: 30man 
+chup anh cuoi: 6man 
+con 24 man 
+gui ve 12man : con 12man: 20tr
+vay chi gai: 50 tr
+xe rap :25
+thue vay: 4, make cho ng than 
+mua do cho bme: 4tr
+mua lt: 5tr
+di cho: 2tr
+-> 40 
+
+12tr: mua do di lam + cuoi: 5tr 
+2 vay: 1tr5. giay: 600K
+vay di lam: 800K
+ao khoac: 1M
+do bo: 500K 
+-> tong: 5tr , lam Toc: 2M 
+-> 7M - con 5M 
+di an uong, cac thu: 
+2M cho chau, an uong 2M 
+con 1M 
+tien di lai-het 
+vay c 40M 
+xe+ rap: 5M 
+make: 4M 
+mua do chame: 4M 
+tl: 5M
+cho chau: 2m 
+20M, tien doi vang:  
+tien mua do di tung nha: 1M 
+
+
 public function test(){
   var n;
   for(int i; i<= n; i++){
