@@ -365,12 +365,14 @@ define([
   'use strict';
   'customers';
 }).AddName(require: nam);
-
-private testFunc(){
+}
+array.forEach(element => {
+	private
+});  testFunc()
   return testFunc();
   $n: 
   for($i==0;i<n;i++){
     CustomElementRegistry ++;
     return n;
-  }
 }
+
