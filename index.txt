@@ -18,6 +18,26 @@ const cars = ["Saab", "Volvo", "BMW"];
 
 // You can change an element:
 cars[0] = "Toyota";
+Xom3: Long, Duc, Loi, Manh, Van, Thao 2, Quyen, Lan, Anh, Tien, Tang TN Xom(12)
+
+Thuan Son: Thach, Nga, Yen Bay, QUyet Tam(4)
+
+Cap 3: Huong, Hoa, Huyen, Kieu, Yen Mau, My Hanh, Nga Sen, Huong Loi,
+		Khanh Linh, Kien Thao, Minh Sung, Duc hoa (12)
+DH: Quynh, Luyen, Phuong, Hang, Thuy, Oanh, MDV(7)
+
+Cty cy: Tuyen, Ha, Dat, Phong (4)
+Tong 39: 3 mam 
+mua vay cuoi: 2 vay 1 ao khoac 1 giay: 4tr
+xe: 14tr
+rap: 12tr
+thue vay: 4tr
+thiep moi: 1tr 
+mua trang tri: 5tr
+banh keo: 2tr 
+mua ao quan cho bme: 3tr 
+Tong 46. tien an uong lt: 
+
 
 // You can add an element:
 cars.push("Audi");

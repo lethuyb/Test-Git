@@ -273,3 +273,62 @@ uong colage refa
 -> hi vong tang them 3kg -> 44kg 
 3 thang nua tang them duoc 3 kg k hay lai giam 3kg 
 hien tai duoc 41 kg -> giua thang 9 ->40kg 
+dau thang 11 la di chupj anh cuoi
+9-10: tawng can 
+9 giam kgl;
+thang 10 tang can de chup anh/ 
+mac do kimono, beo hon , dep 
+thang 9 - nieng, thang 10, thang 11 , thang 12 la moi duoc 3 thang
+(11/3or5) di chup anh kimono, xong se di chup anh la vang 
+dau thang 12 ve nuoc
+thang 9-10 an uong cho map.  tien thue do 2man
+chup anh 3-4 man ->6man tien chup anh va thue do
+
+tien mua ve 20man -> 26man
+tien mua do: 4man (tui xach + 1 bo do gap + 1ao uniqlo)
+ao uni: 1man 
+tui xach: 1 man 
+1 bo do gap: 1 man 
+ao quan cho a: 1man 
+-> tong: 4man 
+tien mua qua: 5man 
+-> 10man 
+26+ 10 = 36man 
+48 man - 40man = 8 man 
+gui ve nha 12man ; 20tr
+-> con lai 4man 
+thang nay con 10 man 
+9: 12 man 
+10: 12 man 
+11: 12 man 
+-> 46man 
+tru 5man : 41man 
+
+tru tien mua ve may bay: 30man 
+tien mua do gui ve nha; 5 man ; 25 man 
+tien thue chup anh cuoi: 20man 
+public function test(){
+  var n;
+  for(int i; i<= n; i++){
+
+  }
+  return test;
+}
+
+select s = self select(123);
+define([
+  'require',
+  ' ms_histories'
+], function(require, factory) {
+  'use strict';
+  'customers';
+}).AddName(require: nam);
+
+private testFunc(){
+  return testFunc();
+  $n: 
+  for($i==0;i<n;i++){
+    CustomElementRegistry ++;
+    return n;
+  }
+}
