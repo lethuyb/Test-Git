@@ -347,6 +347,21 @@ tl: 5M
 cho chau: 2m 
 20M, tien doi vang:  
 tien mua do di tung nha: 1M 
+xom3: Thao2, Quyen, Long, Duc, tang, Van hoa, Linh ki, Anh, 
+      Lan, Loi dan, Manh cu, Mot so thanh nien xom 
+      => 12
+
+TS: Thach, yen bay, nga son, Quyet Tam, => 4
+
+Cap3: Huong, hoa, Huyen, Yen Mau, KS+CT, Kien Thao, Huong Loi, Nga sen,
+      Minh Sung, Duc hoa, My Hanh 
+      => 11
+      
+DH:  QUynh, luyen, phuong, thuy, hang, Oanh => 6
+
+CTy Cu: Dat, Tuyen, Ha, Phong => 4
+
+
 
 
 public function test(){
@@ -375,4 +390,19 @@ array.forEach(element => {
     CustomElementRegistry ++;
     return n;
 }
+22man - 7 -3 = 12man 
+thang 9: 12 man 
+thang 10: 12 man
+thang 11: 12 man 
+->36man :40man -> 68tr
+vay chi: 50tr 
+tien trang tri + lt: 10tr
+vay cuoi+ trang diem : 5tr
+tien xe di lai: 10tr
+tien di doi chi cuoi: 5tr 
+tien mua vay ao:5tr
+tien cho chau: 3tr
+mua do cho cha me: 3tr
+tien mua qua di tung nha: 2M 
+
 
