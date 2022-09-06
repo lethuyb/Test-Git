@@ -37,6 +37,20 @@ function AddName(name) {
 }
 function dragstart_handler(ev) {
     console.log('dragStart');
+    define([
+      'require',
+      'dependency'
+    ], function(require, factory) {
+      'use strict';
+      
+    });
+    testFunc;
+    return define;
+    vay c 50 cu: 
+    mua do cho bme: 2tr
+    mua do lt trang tri trong nha: 5tr
+    trang diem+ thue vay: 5tr
+    thue xe: 12tr 
     // Add this element's id to the drag payload so the drop handler will
     // know which element to add to its tree
     const dataList = ev.dataTransfer.items;
@@ -73,7 +87,28 @@ function dragstart_handler(ev) {
       }
     }
   }
-  
+  12/11 VTTRegion
+  gio chi nhan luong thang 8,9:
+24man + hien tai con 6man + 19-6= 13man 
+24-6-6= 12 +12=24 +18=42 -12 man = 30 - 15 = 15man 
+nc la van phai vay c 50cu 
+gui ve nha: 12man - 20tr
+rap cuoi hoi' 
+mua do ve bieu' 5man 2 nha
+mua cho bme 2 ben ' may do huyet ap' 1man 5
+mua 6hop omega3, vitamin C 1man 
+mua y pham ve' sua rua mat, phan trang diem' 1man 
+banh keo cho chau ' 5sen 
+4man ->5man 
+mua bo do o nha' 7sen , mua do ve' 2man 
+tien di lai 2 dua' 2man
+tong mat 10man 
+gui ve 20tr' tien râp
+tien trang diem, mua do cho bme' ' 6tr
+
+
+
+mua ao quan cho minh; 1 bo gap , 1 hop phan mat'
   function dragover_handler(ev) {
     console.log('dragOver');
     ev.preventDefault();
@@ -131,7 +166,11 @@ function dragstart_handler(ev) {
     ev.dataTransfer.setData("text", ev.target.id);
     ev.dataTransfer.effectAllowed = "move";
   }
-  
+  $test
+  {
+    function test($n)
+
+  }
   function dropHandler(ev) {
     log(`drop: effectAllowed = ${ev.dataTransfer.effectAllowed}`);
   
@@ -251,13 +290,8 @@ document.querySelector("#reset");
       "device_code": "21061",
       "device": "Glocalme U3　White",
       "created_at": "2022-08-19"
-    }  
-  }
-
-
-  qua chan/ sang nam thi lai JLPT 
-
-  $i;
+    }
+  
 {
   var performance  = new  performance;
 }
@@ -404,5 +438,29 @@ tien mua vay ao:5tr
 tien cho chau: 3tr
 mua do cho cha me: 3tr
 tien mua qua di tung nha: 2M 
+tien rap: 12tr
+tong phai co tam 60M 
+thang 8,9,10/ 36man +6man: 42man 
+co 42man: 
+phai co 70tr ve cuoi 
+36+7man =43man 86tr
+73tr 13tr
+12M + 60M 
+ve nha 60M : 
+tien thue xe: 15 
+tien vay trang diem: 5
+tien mua do cho cha me: 3tr
+tien thiep + Lt: 10Tr
+Tien Rap: 12
+tien cho chau+ qua: 3M 
+
+
+Mua qua ve: 2 hop may do huyet ap, 6 lo vi ca map , 1 hop to thuoc nho mat 
+socola: 10goi, 3 chum nho mau don , 
+may do huyet ap 1mn5 , vi ca map: 1man,
+nho + socola: 1man 
+mua sua rua mat: 5 hop: may goi vitamin C: 
+mua them ichiba cua DHC : 1man 
+5man mua qua ve. 7man tien di ve 
 
 
