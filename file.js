@@ -51,6 +51,14 @@ function dragstart_handler(ev) {
     mua do lt trang tri trong nha: 5tr
     trang diem+ thue vay: 5tr
     thue xe: 12tr 
+    tong: 25
+    mua lt, di lt: 2tr
+    ve cho chau tl: 2tr
+    12tr
+    ve mua vay ao quan di lam , do bo pijama:, giay:  dep: 5tr 
+    giay: 1tr 
+    quan ao pijama: 
+
     // Add this element's id to the drag payload so the drop handler will
     // know which element to add to its tree
     const dataList = ev.dataTransfer.items;
