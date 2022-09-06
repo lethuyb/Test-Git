@@ -57,7 +57,9 @@ function dragstart_handler(ev) {
     12tr
     ve mua vay ao quan di lam , do bo pijama:, giay:  dep: 5tr 
     giay: 1tr 
-    quan ao pijama: 
+    quan ao pijama: 600k
+    quan ao di lam: 3tr
+    1 cai ao dai 
 
     // Add this element's id to the drag payload so the drop handler will
     // know which element to add to its tree
