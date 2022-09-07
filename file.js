@@ -312,38 +312,8 @@ array.forEach(element => {
     CustomElementRegistry ++;
     return n;
 }
-22man - 7 -3 = 12man 
-thang 9: 12 man 
-thang 10: 12 man
-thang 11: 12 man 
-->36man :40man -> 68tr
-vay chi: 50tr 
-tien trang tri + lt: 10tr
-vay cuoi+ trang diem : 5tr
-tien xe di lai: 10tr
-tien di doi chi cuoi: 5tr 
-tien mua vay ao:5tr
-tien cho chau: 3tr
-mua do cho cha me: 3tr
-tien mua qua di tung nha: 2M 
-tien rap: 12tr
-tong phai co tam 60M 
-thang 8,9,10/ 36man +6man: 42man 
-co 42man: 
-phai co 70tr ve cuoi 
-36+7man =43man 86tr
-73tr 13tr
-12M + 60M 
-ve nha 60M : 
-tien thue xe: 15 
-tien vay trang diem: 5
-tien mua do cho cha me: 3tr
-tien thiep + Lt: 10Tr
-Tien Rap: 12
-tien cho chau+ qua: 3M 
 
-
-Mua qua ve: 2 hop may do huyet ap, 6 lo vi ca map , 1 hop to thuoc nho mat 
+ Mua qua ve: 2 hop may do huyet ap, 6 lo vi ca map , 1 hop to thuoc nho mat 
 socola: 10goi, 3 chum nho mau don , 
 may do huyet ap 1mn5 , vi ca map: 1man,
 nho + socola: 1man 
