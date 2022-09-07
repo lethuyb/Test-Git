@@ -285,7 +285,7 @@ ngay nghi (14-25-28-5-7-9)
 ve mua giay+ 2 bo quan ao ngu: de ngoai nha a Luon: 1tr
 mang do ve: 1 bp puma+ 1 bo gap + 1 bo do mac o nha +vay 
 mua do ve: 2 may do huyet ap, 2 hop phan, 4 hop sua rua mat, 8 lo omega3
-3 goi vitamin C, chuc goi keo socola (5man) 
+3 goi vitamin C, chuc goi keo socola, thuoc nho mat, ichiba (5man) 
 chup anh cuoi: 6man 
 mua 1 bo gap: 7sen + tui xach: 1man -> 2man 
 chi phi mat: 15man
@@ -303,13 +303,6 @@ define([
   'customers';
 }).AddName(require: nam);
 }
-Mua qua ve: 2 hop may do huyet ap, 6 lo vi ca map , 1 hop to thuoc nho mat 
-socola: 10goi, 3 chum nho mau don , 
-may do huyet ap 1mn5 , vi ca map: 1man,
-nho + socola: 1man 
-mua sua rua mat: 5 hop: may goi vitamin C: 
-mua them ichiba cua DHC : 1man 
-5man mua qua ve. 7man tien di ve 
 
 array.forEach(element => {
 	private
