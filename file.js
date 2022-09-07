@@ -46,27 +46,6 @@ function dragstart_handler(ev) {
     });
     testFunc;
     return define;
-    vay c 50 cu: 
-    mua do cho bme: 2tr
-    mua do lt trang tri trong nha: 5tr
-    trang diem+ thue vay: 5tr
-    thue xe: 12tr 
-    tong: 25
-    mua lt, di lt: 2tr
-    ve cho chau tl: 2tr
-    12tr
-    ve mua vay ao quan di lam , do bo pijama:, giay:  dep: 5tr 
-    giay: 1tr 
-    quan ao pijama: 600k
-    quan ao di lam: 3tr
-    1 cai ao dai 
-    ngay 12/11 ve ngay 11/12 ddi 
-    thu 7 ve toi nha. nghi ngoi, 
-    ngay cn di mua nhan cuoi, vay voc mac cuoi
-    thu 2 di chup anh cuoi. 
-    toi thu 2 ve. lviec tu thu 3-thu6
-    lvie thu 2,4-6. cuoi ngay 27 (28 nghi)
-    lvie tu 29-2
 
     // Add this element's id to the drag payload so the drop handler will
     // know which element to add to its tree
