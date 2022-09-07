@@ -60,6 +60,13 @@ function dragstart_handler(ev) {
     quan ao pijama: 600k
     quan ao di lam: 3tr
     1 cai ao dai 
+    ngay 12/11 ve ngay 11/12 ddi 
+    thu 7 ve toi nha. nghi ngoi, 
+    ngay cn di mua nhan cuoi, vay voc mac cuoi
+    thu 2 di chup anh cuoi. 
+    toi thu 2 ve. lviec tu thu 3-thu6
+    lvie thu 2,4-6. cuoi ngay 27 (28 nghi)
+    lvie tu 29-2
 
     // Add this element's id to the drag payload so the drop handler will
     // know which element to add to its tree
@@ -97,28 +104,23 @@ function dragstart_handler(ev) {
       }
     }
   }
-  12/11 VTTRegion
-  gio chi nhan luong thang 8,9:
-24man + hien tai con 6man + 19-6= 13man 
-24-6-6= 12 +12=24 +18=42 -12 man = 30 - 15 = 15man 
-nc la van phai vay c 50cu 
-gui ve nha: 12man - 20tr
-rap cuoi hoi' 
-mua do ve bieu' 5man 2 nha
-mua cho bme 2 ben ' may do huyet ap' 1man 5
-mua 6hop omega3, vitamin C 1man 
-mua y pham ve' sua rua mat, phan trang diem' 1man 
-banh keo cho chau ' 5sen 
-4man ->5man 
-mua bo do o nha' 7sen , mua do ve' 2man 
-tien di lai 2 dua' 2man
-tong mat 10man 
-gui ve 20tr' tien râp
-tien trang diem, mua do cho bme' ' 6tr
+  Mua qua ve nha:
+   May do huyet ap :2; omega3: 10; my pham: srm: 4,phan: 2,
+   socola: 1chuc, thuoc nho mat: chuc lo 
+   ->5man 
+   mua quan ao o nhat ve: 2man 
+   chup anh cuoi: 5man 
+   tien di lai 2man 
+   -> tong phai chi tieu: 15man 
+   gui tien ve lam thue 12man 
+   tong la 27man 
+   ->2 thang nua: 22+13+6= 41man -> 42man -27man = 15man 
+   vay c 50tr:
+   thue xe:15tr, thue vays + make: 5tr
+   mua do cho cha me: 3tr
+   mua do trang tri trong nha linh tinh: 5tr 
+   cho chau:3tr, tien di lai: 2M , tien xang xe: 1M  
 
-
-
-mua ao quan cho minh; 1 bo gap , 1 hop phan mat'
   function dragover_handler(ev) {
     console.log('dragOver');
     ev.preventDefault();
@@ -416,6 +418,19 @@ public function test(){
   return test;
 }
 
+ngay nghi (14-25-28-5-7-9)
+ve mua giay+ 2 bo quan ao ngu: de ngoai nha a Luon: 1tr
+mang do ve: 1 bp puma+ 1 bo gap + 1 bo do mac o nha +vay 
+mua do ve: 2 may do huyet ap, 2 hop phan, 4 hop sua rua mat, 8 lo omega3
+3 goi vitamin C, chuc goi keo socola (5man) 
+chup anh cuoi: 6man 
+mua 1 bo gap: 7sen + tui xach: 1man -> 2man 
+chi phi mat: 15man
+2 thang luong: 22+16+7 = 45man 
+con 30 - 12 = 18man trong tai khoan 
+doi 8man sang tien viet . con 10 man -> 12 sang lai: 30man. 
+
+
 select s = self select(123);
 define([
   'require',
@@ -472,5 +487,7 @@ nho + socola: 1man
 mua sua rua mat: 5 hop: may goi vitamin C: 
 mua them ichiba cua DHC : 1man 
 5man mua qua ve. 7man tien di ve 
+
+
 
 
