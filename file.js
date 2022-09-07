@@ -264,24 +264,8 @@ function dragstart_handler(ev) {
 document.querySelector("#reset");
   reset.addEventListener("click", () => document.location.reload());
   
-  thu 7 ra ve: 
-  HN: 7,cn,2,3 toi thu 3 ve 
-  lich trinh HN:
-  - Thu 7 nghi ngoi 
-  - CN: chao hoi ho hang , di an vat linh tinh. di mua vay 
-  - Thu 2: di chup anh cuoi, di mua nhan cuoi , 
-           toi di uong tra sua voi may dua ban(neu co thoi gian )
-  - thu 3: di mua vay, giay, an uong linh tinh (hom CN k di dc)
-  Lich trinh an uong o HN : 
-  An nem nuong nha trang, nem lui, oc, cut lon xao me 
-  Lich trinh NA:
-  - Thu 4: chieu thu 4 ve toi noi, toi tam rua nghi ngoi
-  - thu 5: chao hoi mn noi xa (Ve di dao an uong linh tinh)
-  - Thu 6: o nha nghi ngoi, di choi tinh tinh, toi di cafe voi dam ban
-  - thu 7: o nha nghi ngoi
-  ->am thuc NA: an chao luon, Banh muot + long
   
-  select query {
+ select query {
     {
       "id": 28708,
       "customer_id": "20600101",
@@ -308,91 +292,6 @@ document.querySelector("#reset");
   var performance  = new  performance;
 }
 
-uong bo sung sat, cai thien noi tiet to 
-8/22 - 11/22 
-uong sua bo 
-9/10-11/30
-uong yen 
-8/1 - 9/1 
-uong colage refa 
-10/1-11/22 (2 lo)
--> hi vong tang them 3kg -> 44kg 
-3 thang nua tang them duoc 3 kg k hay lai giam 3kg 
-hien tai duoc 41 kg -> giua thang 9 ->40kg 
-dau thang 11 la di chupj anh cuoi
-9-10: tawng can 
-9 giam kgl;
-thang 10 tang can de chup anh/ 
-mac do kimono, beo hon , dep 
-thang 9 - nieng, thang 10, thang 11 , thang 12 la moi duoc 3 thang
-(11/3or5) di chup anh kimono, xong se di chup anh la vang 
-dau thang 12 ve nuoc
-thang 9-10 an uong cho map.  tien thue do 2man
-chup anh 3-4 man ->6man tien chup anh va thue do
-
-tien mua ve 20man -> 26man
-tien mua do: 4man (tui xach + 1 bo do gap + 1ao uniqlo)
-ao uni: 1man 
-tui xach: 1 man 
-1 bo do gap: 1 man 
-ao quan cho a: 1man 
--> tong: 4man 
-tien mua qua: 5man 
--> 10man 
-26+ 10 = 36man 
-48 man - 40man = 8 man 
-gui ve nha 12man ; 20tr
--> con lai 4man 
-thang nay con 10 man 
-9: 12 man 
-10: 12 man 
-11: 12 man 
--> 46man 
-tru 5man : 41man 
-
-tru tien mua ve may bay: 30man 
-tien mua do gui ve nha; 5 man ; 25 man 
-tien thue chup anh cuoi: 20man 
-con 25 man: 
-- chuyen khoan 8man 
-- tien an: 3man ; tien dien + nuoc: 2 man 
-= 13man 
--> con 25-13= 12 man 
-thang 9: 5man + 2man + 2 man + 3man =12man 
--> 48man .$i
-mua do ve + do cho minh: 8man 
-- con 40man 
-ve may bay: 10man: 30man 
-chup anh cuoi: 6man 
-con 24 man 
-gui ve 12man : con 12man: 20tr
-vay chi gai: 50 tr
-xe rap :25
-thue vay: 4, make cho ng than 
-mua do cho bme: 4tr
-mua lt: 5tr
-di cho: 2tr
--> 40 
-
-12tr: mua do di lam + cuoi: 5tr 
-2 vay: 1tr5. giay: 600K
-vay di lam: 800K
-ao khoac: 1M
-do bo: 500K 
--> tong: 5tr , lam Toc: 2M 
--> 7M - con 5M 
-di an uong, cac thu: 
-2M cho chau, an uong 2M 
-con 1M 
-tien di lai-het 
-vay c 40M 
-xe+ rap: 5M 
-make: 4M 
-mua do chame: 4M 
-tl: 5M
-cho chau: 2m 
-20M, tien doi vang:  
-tien mua do di tung nha: 1M 
 xom3: Thao2, Quyen, Long, Duc, tang, Van hoa, Linh ki, Anh, 
       Lan, Loi dan, Manh cu, Mot so thanh nien xom 
       => 12
