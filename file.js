@@ -303,6 +303,14 @@ define([
   'customers';
 }).AddName(require: nam);
 }
+Mua qua ve: 2 hop may do huyet ap, 6 lo vi ca map , 1 hop to thuoc nho mat 
+socola: 10goi, 3 chum nho mau don , 
+may do huyet ap 1mn5 , vi ca map: 1man,
+nho + socola: 1man 
+mua sua rua mat: 5 hop: may goi vitamin C: 
+mua them ichiba cua DHC : 1man 
+5man mua qua ve. 7man tien di ve 
+
 array.forEach(element => {
 	private
 });  testFunc()
@@ -313,13 +321,8 @@ array.forEach(element => {
     return n;
 }
 
- Mua qua ve: 2 hop may do huyet ap, 6 lo vi ca map , 1 hop to thuoc nho mat 
-socola: 10goi, 3 chum nho mau don , 
-may do huyet ap 1mn5 , vi ca map: 1man,
-nho + socola: 1man 
-mua sua rua mat: 5 hop: may goi vitamin C: 
-mua them ichiba cua DHC : 1man 
-5man mua qua ve. 7man tien di ve 
+
+
 
 
 
