@@ -104,23 +104,8 @@ function dragstart_handler(ev) {
       }
     }
   }
-  Mua qua ve nha:
-   May do huyet ap :2; omega3: 10; my pham: srm: 4,phan: 2,
-   socola: 1chuc, thuoc nho mat: chuc lo 
-   ->5man 
-   mua quan ao o nhat ve: 2man 
-   chup anh cuoi: 5man 
-   tien di lai 2man 
-   -> tong phai chi tieu: 15man 
-   gui tien ve lam thue 12man 
-   tong la 27man 
-   ->2 thang nua: 22+13+6= 41man -> 42man -27man = 15man 
-   vay c 50tr:
-   thue xe:15tr, thue vays + make: 5tr
-   mua do cho cha me: 3tr
-   mua do trang tri trong nha linh tinh: 5tr 
-   cho chau:3tr, tien di lai: 2M , tien xang xe: 1M  
-
+  
+  
   function dragover_handler(ev) {
     console.log('dragOver');
     ev.preventDefault();
