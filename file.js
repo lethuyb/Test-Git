@@ -198,7 +198,11 @@ function dragstart_handler(ev) {
     log(`dragover: effectAllowed = ${ev.dataTransfer.effectAllowed}`);
     ev.preventDefault();
   }
-  
+DO huyet ap: 2cai, nho mat: 10 cai, C: 3tui,  banh: 10 hop, 
+srm: 4hop, thuoc: 6 hop , mat na: 2 hop binh thuong, 2 hop xin 
+may lo thuoc giam huyet ap: 5, quan ao 1bo, tui xach, 
+1quan : 2.5, chup anh cuoi: 8.5 -> tong: 16
+24x2=48+10 =58, 58-11= 47, 47-16=31 -foi sang tien viet: 5mwn -> 26nan
   const source = document.querySelector("#source");
   const target = document.querySelector("#target");
   
@@ -211,7 +215,14 @@ function dragstart_handler(ev) {
     output.textContent = `${output.textContent}\n${message}`;
     output.scrollTop = output.scrollHeight;
   }
+  12x2=24+10=34man -12=22man 
+  mua do ve + chup anh cuoi: 14
+  22-14=8 -3 =5 
+  gui 5man
   
+  
+
+
   const do {
 	reset
 } for (const key in object) {
@@ -293,6 +304,13 @@ chi phi mat: 15man
 con 30 - 12 = 18man trong tai khoan 
 doi 8man sang tien viet . con 10 man -> 12 sang lai: 30man. 
 
+tien thue xe: 15; trang diem+ thue vay: 5, mua lt:5 
+doi vang: 5, mua do cho cha me: 2, cho chau: 3-> tong: 35
+di cho mua lt: 5tr: 40 
+vay c 40tr 
+tien Rap: 15
+dua ve 3 bo do, 1 bo mac tren nguoi, 1 doi giay di, + 1 doi giay mang ve 
+
 
 select s = self select(123);
 define([
@@ -303,6 +321,8 @@ define([
   'customers';
 }).AddName(require: nam);
 }
+select sl = new self(sl);
+add sl.FileReader(file s); 
 
 array.forEach(element => {
 	private
