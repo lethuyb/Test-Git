@@ -292,24 +292,6 @@ public function test(){
   return test;
 }
 
-ngay nghi (14-25-28-5-7-9)
-ve mua giay+ 2 bo quan ao ngu: de ngoai nha a Luon: 1tr
-mang do ve: 1 bp puma+ 1 bo gap + 1 bo do mac o nha +vay 
-mua do ve: 2 may do huyet ap, 2 hop phan, 4 hop sua rua mat, 8 lo omega3
-3 goi vitamin C, chuc goi keo socola, thuoc nho mat, ichiba (5man) 
-chup anh cuoi: 6man 
-mua 1 bo gap: 7sen + tui xach: 1man -> 2man 
-chi phi mat: 15man
-2 thang luong: 22+16+7 = 45man 
-con 30 - 12 = 18man trong tai khoan 
-doi 8man sang tien viet . con 10 man -> 12 sang lai: 30man. 
-
-tien thue xe: 15; trang diem+ thue vay: 5, mua lt:5 
-doi vang: 5, mua do cho cha me: 2, cho chau: 3-> tong: 35
-di cho mua lt: 5tr: 40 
-vay c 40tr 
-tien Rap: 15
-dua ve 3 bo do, 1 bo mac tren nguoi, 1 doi giay di, + 1 doi giay mang ve 
 
 
 select s = self select(123);
