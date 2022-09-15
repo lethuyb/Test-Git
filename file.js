@@ -92,7 +92,8 @@ function dragstart_handler(ev) {
     }
   }
   rap: 12tr, xe: 3tr, mua do: 3M , Make: 5M , do Lt: 5M -> tong 30M 
-
+gui ve 11man- 17tr rap, xe ,do:3, Make: 5, lt: 5, di cho: 5 : 20M 
+-> vay 20M 
   function dragover_handler(ev) {
     console.log('dragOver');
     ev.preventDefault();
@@ -102,6 +103,7 @@ function dragstart_handler(ev) {
     b.push(5);
     console.log(a,b);
   }
+
   
   function dragend_handler(ev) {
     console.log('dragEnd');
@@ -181,12 +183,18 @@ function dragstart_handler(ev) {
     output.textContent = `${output.textContent}\n${message}`;
     output.scrollTop = output.scrollHeight;
   }
-  
+  xe: 5, ah, make:5,banh keo+lt: 5, bome:3,9: vay c 25tr
+  thang 
+ defin.this($test);
+  this.$i = new testFunc(s
   const reset = document.querySelector("#reset");
   reset.addEventListener("click", () => document.location.reload());
   function dragstartHandler(ev) {
     log(`dragstart: effectAllowed = ${ev.dataTransfer.effectAllowed}`);
-  
+  28+7=35man -11=24 - 14=10, doi 6man = 9tr6
+  giay dep, vay: 4M, 
+  cuoi thang 10 di mua do. 20/9: 12+7=19.
+  chup anh: 8.5, con 10, 10+12=22, 
     // Add this element's id to the drag payload so the drop handler will
     // know which element to add to its tree
     ev.dataTransfer.setData("text", ev.target.id);
@@ -223,10 +231,6 @@ may lo thuoc giam huyet ap: 5, quan ao 1bo, tui xach,
     output.textContent = `${output.textContent}\n${message}`;
     output.scrollTop = output.scrollHeight;
   }
-  12x2=24+10=34man -12=22man 
-  mua do ve + chup anh cuoi: 14
-  22-14=8 -3 =5 
-  gui 5man
   const do {
 	reset
 } for (const key in object) {
