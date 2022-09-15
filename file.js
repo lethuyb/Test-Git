@@ -46,6 +46,8 @@ function dragstart_handler(ev) {
     });
     testFunc;
     return define;
+  }
+  testFunc.add();
 
     // Add this element's id to the drag payload so the drop handler will
     // know which element to add to its tree
@@ -55,6 +57,12 @@ function dragstart_handler(ev) {
     dataList.add('<p>Paragraph…</p>', 'text/html');
     dataList.add('http://www.example.org','text/uri-list');
   }
+  cuoi t10: 12, di mua 12+10=22= gui ve nha 11man 
+  co 17tr; thue rap: 12tr  con 5tr,  
+  TD+ Anhoi:5M; mua do:3tr,
+  mua do lt:10tr
+  -> vay c 20tr
+
   
   function drop_handler(ev) {
     console.log('Drop');
@@ -83,8 +91,8 @@ function dragstart_handler(ev) {
       }
     }
   }
-  
-  
+  rap: 12tr, xe: 3tr, mua do: 3M , Make: 5M , do Lt: 5M -> tong 30M 
+
   function dragover_handler(ev) {
     console.log('dragOver');
     ev.preventDefault();
@@ -219,10 +227,6 @@ may lo thuoc giam huyet ap: 5, quan ao 1bo, tui xach,
   mua do ve + chup anh cuoi: 14
   22-14=8 -3 =5 
   gui 5man
-  
-  
-
-
   const do {
 	reset
 } for (const key in object) {
@@ -238,8 +242,6 @@ may lo thuoc giam huyet ap: 5, quan ao 1bo, tui xach,
 }; 
 document.querySelector("#reset");
   reset.addEventListener("click", () => document.location.reload());
-  
-  
  select query {
     {
       "id": 28708,
@@ -280,10 +282,6 @@ Cap3: Huong, hoa, Huyen, Yen Mau, KS+CT, Kien Thao, Huong Loi, Nga sen,
 DH:  QUynh, luyen, phuong, thuy, hang, Oanh => 6
 
 CTy Cu: Dat, Tuyen, Ha, Phong => 4
-
-
-
-
 public function test(){
   var n;
   for(int i; i<= n; i++){
@@ -291,9 +289,6 @@ public function test(){
   }
   return test;
 }
-
-
-
 select s = self select(123);
 define([
   'require',
