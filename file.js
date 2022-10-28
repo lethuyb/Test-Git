@@ -191,10 +191,10 @@ gui ve 11man- 17tr rap, xe ,do:3, Make: 5, lt: 5, di cho: 5 : 20M
   reset.addEventListener("click", () => document.location.reload());
   function dragstartHandler(ev) {
     log(`dragstart: effectAllowed = ${ev.dataTransfer.effectAllowed}`);
-  28+7=35man -11=24 - 14=10, doi 6man = 9tr6
-  giay dep, vay: 4M, 
-  cuoi thang 10 di mua do. 20/9: 12+7=19.
-  chup anh: 8.5, con 10, 10+12=22, 
+  
+  giay dep, vay: 
+  cuoi thang 10 di mua do. 20/9: 
+  chup anh: 8.5, 
     // Add this element's id to the drag payload so the drop handler will
     // know which element to add to its tree
     ev.dataTransfer.setData("text", ev.target.id);
@@ -231,6 +231,7 @@ may lo thuoc giam huyet ap: 5, quan ao 1bo, tui xach,
     output.textContent = `${output.textContent}\n${message}`;
     output.scrollTop = output.scrollHeight;
   }
+  function testFunc() = function();
   const do {
 	reset
 } for (const key in object) {
@@ -244,6 +245,18 @@ may lo thuoc giam huyet ap: 5, quan ao 1bo, tui xach,
 	const element = array[index];
 	 (CSSConditionRule)
 }; 
+20M 
+
+Makeup, thuê ng bưng lê, trang trí xe hoa,
+chụp ảnh phóng sự cưới hỏi' 5M 
+Tiền rạp 10M 
+Mua váy, dép' 2M 
+
+a đưa cho 20M, 20 M _ 40M 
+Hom sau nha a dưa vào 20M 
+
+9:12;-8/5;3/5; 10:16+6=22
+12. 10:-6man; 4-> 6tr gui ve. con lai: 
 document.querySelector("#reset");
   reset.addEventListener("click", () => document.location.reload());
  select query {
@@ -302,8 +315,11 @@ define([
   'customers';
 }).AddName(require: nam);
 }
+select n1.AddName(“abc”)　＝new self；
 select sl = new self(sl);
 add sl.FileReader(file s); 
+select test = new select(self)
+cuoi thang 10 moi mua het/ 5-6/11 ; ok giua tuan soan do 
 
 array.forEach(element => {
 	private
@@ -314,7 +330,16 @@ array.forEach(element => {
     CustomElementRegistry ++;
     return n;
 }target("test")print.system.slound
+Cap3' Hoa đen, Hương béo, huyền thành, yến mậu, Nga sen,
+huyền Lan, KSCT, Đức hoa, kiên thảo, Minh Sung, 
+Mỹ Hạnh, Nga SƠn, Quyên Lương
 
+Thuận Sơn;' Thạch DInh, Yến Bảy, Vân Hòa, Linh kÌ, Lan,
+Anh, Đức, Long, Tăng, Mạnh , Lợi, Linh Kì, 
+Thảo Quạ', Thaor Dung, Tien Tan, Hung Thuy, Tien Ngo,
+
+thủy, quỳnh, hằng, phượng, luyến, tuyền, hà, đạt, mạnh đào văn 
+20 người, ở nhà chắc là làm 2 mâm 
 
 
 
