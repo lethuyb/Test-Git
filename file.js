@@ -250,13 +250,14 @@ may lo thuoc giam huyet ap: 5, quan ao 1bo, tui xach,
 Makeup, thuê ng bưng lê, trang trí xe hoa,
 chụp ảnh phóng sự cưới hỏi' 5M 
 Tiền rạp 10M 
+cho mỗi nhà 1M ->3M 
 Mua váy, dép' 2M 
 
 a đưa cho 20M, 20 M _ 40M 
 Hom sau nha a dưa vào 20M 
 
 9:12;-8/5;3/5; 10:16+6=22
-12. 10:-6man; 4-> 6tr gui ve. con lai: 
+12. 10:- 6man; 4-> 6tr gui ve. con lai: 
 document.querySelector("#reset");
   reset.addEventListener("click", () => document.location.reload());
  select query {
@@ -290,10 +291,11 @@ xom3: Thao2, Quyen, Long, Duc, tang, Van hoa, Linh ki, Anh,
       Lan, Loi dan, Manh cu, Mot so thanh nien xom 
       => 12
 
-TS: Thach, yen bay, nga son, Quyet Tam, => 4
+TS: Thach, yen bay, nga son, Tiến, Trọng, Thắng 
 
-Cap3: Huong, hoa, Huyen, Yen Mau, KS+CT, Kien Thao, Huong Loi, Nga sen,
-      Minh Sung, Duc hoa, My Hanh 
+
+Cap3: Huong, hoa, Huyen, Yen Mau, KS+CT, Kien Thao,  Nga sen,
+      Minh Sung, Duc hoa, My Hanh
       => 11
       
 DH:  QUynh, luyen, phuong, thuy, hang, Oanh => 6
@@ -319,7 +321,7 @@ select n1.AddName(“abc”)　＝new self；
 select sl = new self(sl);
 add sl.FileReader(file s); 
 select test = new select(self)
-cuoi thang 10 moi mua het/ 5-6/11 ; ok giua tuan soan do 
+cuoi thang 10 moi mua het/ 5-6/11 ; 
 
 array.forEach(element => {
 	private
@@ -338,11 +340,16 @@ Thuận Sơn;' Thạch DInh, Yến Bảy, Vân Hòa, Linh kÌ, Lan,
 Anh, Đức, Long, Tăng, Mạnh , Lợi, Linh Kì, 
 Thảo Quạ', Thaor Dung, Tien Tan, Hung Thuy, Tien Ngo,
 
-thủy, quỳnh, hằng, phượng, luyến, tuyền, hà, đạt, mạnh đào văn 
-20 người, ở nhà chắc là làm 2 mâm 
+thủy, quỳnh, hằng, phượng, luyến, tuyền, hà, đạt, mạnh đào văn, Oanh
+20 người, ở nhà chắc là làm 2 mâm.
 
-
-
-
-
-
+Mua thêm 5 lọ thuốc nhỏ mắt, chục gói bánh, kẹo. -> 1 man 
+trả tiền thuế' 2.1man
+trả tiền ảnh' 3.5 
+tiền ăn; 1 man 
+tiền mua đồ về' 1 man 
+tiền tàu xe' 5 sen 
+-> 
+28, 25 _ 53 man , tài khoản 20man
+-> 73 man 
+-> 
