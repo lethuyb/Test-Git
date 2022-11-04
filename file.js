@@ -245,19 +245,7 @@ may lo thuoc giam huyet ap: 5, quan ao 1bo, tui xach,
 	const element = array[index];
 	 (CSSConditionRule)
 }; 
-20M 
 
-Makeup, thuê ng bưng lê, trang trí xe hoa,
-chụp ảnh phóng sự cưới hỏi' 5M 
-Tiền rạp 10M 
-cho mỗi nhà 1M ->3M 
-Mua váy, dép' 2M 
-
-a đưa cho 20M, 20 M _ 40M 
-Hom sau nha a dưa vào 20M 
-
-9:12;-8/5;3/5; 10:16+6=22
-12. 10:- 6man; 4-> 6tr gui ve. con lai: 
 document.querySelector("#reset");
   reset.addEventListener("click", () => document.location.reload());
  select query {
@@ -291,14 +279,18 @@ xom3: Thao2, Quyen, Long, Duc, tang, Van hoa, Linh ki, Anh,
       Lan, Loi dan, Manh cu, Mot so thanh nien xom 
       => 12
 
-TS: Thach, yen bay, nga son, Tiến, Trọng, Thắng 
+TS: Thạch dinh, Yến Bảy, Nga Sơn, Long Kong, ĐƯc Hanhh
+Mạnh Cù, Thảo Hiên, Tăng Tân, Linh Kỳ, Vân Hòa, Lợi Dần,
+
+Cap 3: Hương béo, Hoa đen, Huyền Thành, Nga Sen,
+Yến Mậu,  Mỹ Hạnh, Kiều sò, Kiên thảo, Minh sung,
+ Đức Hoa 
+
+ ĐH: Luyến, Hằng, QUỳnh, Phượng, Oanh, Mạnh, Thủy
+ Tuyền, Hà, Lân, Đạt, Phong, Tiến, Thắng, Trọng
+ Nam, Sáng, Hoàng, SƠn, Minh, Bé 
 
 
-Cap3: Huong, hoa, Huyen, Yen Mau, KS+CT, Kien Thao,  Nga sen,
-      Minh Sung, Duc hoa, My Hanh
-      => 11
-      
-DH:  QUynh, luyen, phuong, thuy, hang, Oanh => 6
 
 CTy Cu: Dat, Tuyen, Ha, Phong => 4
 public function test(){
@@ -315,7 +307,7 @@ define([
 ], function(require, factory) {
   'use strict';
   'customers';
-}).AddName(require: nam);
+}).AddName(require.$i: nam);
 }
 select n1.AddName(“abc”)　＝new self；
 select sl = new self(sl);
@@ -326,6 +318,7 @@ cuoi thang 10 moi mua het/ 5-6/11 ;
 array.forEach(element => {
 	private
 });  testFunc()
+debug.test();
   return testFunc();
   $n: 
   for($i==0;i<n;i++){
@@ -353,3 +346,5 @@ tiền tàu xe' 5 sen
 28, 25 _ 53 man , tài khoản 20man
 -> 73 man 
 -> 
+
+xoms 3: Long, Đức, Tăng, Lợi, Mạnh, Linh kì, vân Hòa, Thảo quạ, Hiền Cù, Thạch DInh, Nga sơn, yến bảy 
