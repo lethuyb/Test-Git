@@ -281,18 +281,18 @@ xom3: Thao2, Quyen, Long, Duc, tang, Van hoa, Linh ki, Anh,
 
 TS: Thạch dinh, Yến Bảy, Nga Sơn, Long Kong, ĐƯc Hanhh
 Mạnh Cù, Thảo Hiên, Tăng Tân, Linh Kỳ, Vân Hòa, Lợi Dần,
-
+11 dứa
 Cap 3: Hương béo, Hoa đen, Huyền Thành, Nga Sen,
 Yến Mậu,  Mỹ Hạnh, Kiều sò, Kiên thảo, Minh sung,
  Đức Hoa 
+ 10 đứa
 
  ĐH: Luyến, Hằng, QUỳnh, Phượng, Oanh, Mạnh, Thủy
  Tuyền, Hà, Lân, Đạt, Phong, Tiến, Thắng, Trọng
  Nam, Sáng, Hoàng, SƠn, Minh, Bé 
 
+ 12duwas' 5M 
 
-
-CTy Cu: Dat, Tuyen, Ha, Phong => 4
 public function test(){
   var n;
   for(int i; i<= n; i++){
@@ -300,6 +300,8 @@ public function test(){
   }
   return test;
 }
+
+Mua đồ: 
 select s = self select(123);
 define([
   'require',
@@ -309,11 +311,16 @@ define([
   'customers';
 }).AddName(require.$i: nam);
 }
+select
 select n1.AddName(“abc”)　＝new self；
 select sl = new self(sl);
 add sl.FileReader(file s); 
 select test = new select(self)
 cuoi thang 10 moi mua het/ 5-6/11 ; 
+Kiều,Hương, Mạnh, Tuyền, hà, Đạt, Thủy Bùi, QUỳnh：4M
+３đứa kia' 3M 
+Long kong, đức hanh' 1M 
+
 
 array.forEach(element => {
 	private
@@ -325,26 +332,3 @@ debug.test();
     CustomElementRegistry ++;
     return n;
 }target("test")print.system.slound
-Cap3' Hoa đen, Hương béo, huyền thành, yến mậu, Nga sen,
-huyền Lan, KSCT, Đức hoa, kiên thảo, Minh Sung, 
-Mỹ Hạnh, Nga SƠn, Quyên Lương
-
-Thuận Sơn;' Thạch DInh, Yến Bảy, Vân Hòa, Linh kÌ, Lan,
-Anh, Đức, Long, Tăng, Mạnh , Lợi, Linh Kì, 
-Thảo Quạ', Thaor Dung, Tien Tan, Hung Thuy, Tien Ngo,
-
-thủy, quỳnh, hằng, phượng, luyến, tuyền, hà, đạt, mạnh đào văn, Oanh
-20 người, ở nhà chắc là làm 2 mâm.
-
-Mua thêm 5 lọ thuốc nhỏ mắt, chục gói bánh, kẹo. -> 1 man 
-trả tiền thuế' 2.1man
-trả tiền ảnh' 3.5 
-tiền ăn; 1 man 
-tiền mua đồ về' 1 man 
-tiền tàu xe' 5 sen 
--> 
-28, 25 _ 53 man , tài khoản 20man
--> 73 man 
--> 
-
-xoms 3: Long, Đức, Tăng, Lợi, Mạnh, Linh kì, vân Hòa, Thảo quạ, Hiền Cù, Thạch DInh, Nga sơn, yến bảy 
